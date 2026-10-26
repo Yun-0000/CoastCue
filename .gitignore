@@ -1,0 +1,12 @@
+.DS_Store
+__pycache__/
+*.pyc
+.tooling/
+xcuserdata/
+*.xcuserstate
+.pio/
+.vscode/
+ESP-32-CoastCue/pio/include/coastcue_config.h
+
+# Local document exports.
+/output/
