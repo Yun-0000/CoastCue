@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0"><dict>
+<key>CFBundleDisplayName</key><string>CoastCue</string>
+<key>CFBundleExecutable</key><string>$(EXECUTABLE_NAME)</string>
+<key>CFBundleIdentifier</key><string>$(PRODUCT_BUNDLE_IDENTIFIER)</string>
+<key>CFBundleName</key><string>CoastCue</string>
+<key>CFBundlePackageType</key><string>APPL</string>
+<key>CFBundleShortVersionString</key><string>1.0</string>
+<key>CFBundleVersion</key><string>7</string>
+<key>LSRequiresIPhoneOS</key><true/>
+<key>NSBluetoothAlwaysUsageDescription</key><string>CoastCue uses Bluetooth to connect to your bonded shore gateway.</string>
+<key>NSLocationWhenInUseUsageDescription</key><string>CoastCue uses your location once to save the fixed shore reference point for approximate boat distance.</string>
+<key>UILaunchScreen</key><dict/></dict></plist>

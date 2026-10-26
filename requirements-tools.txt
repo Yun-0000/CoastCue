@@ -1,0 +1,4 @@
+# Reproducible local/CI tooling. Application and firmware dependencies remain
+# in their platform-specific manifests.
+platformio==6.1.19
+pyserial==3.5

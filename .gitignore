@@ -1,0 +1,12 @@
+.DS_Store
+__pycache__/
+*.pyc
+.tooling/
+DerivedData/
+.build/
+xcuserdata/
+*.xcuserstate
+
+# Local recordings, transcripts, document exports, and render artifacts.
+/tmp/
+/output/
